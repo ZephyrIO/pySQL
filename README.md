@@ -7,4 +7,4 @@ A Python based CLI tool that replicates the functionality of the pSQL program pr
 1. Clone the Repo or Download the Source Code
 2. Run the program using the following command
 
-    <code>python3 pySQL -h [databaseName] -u [username]</code>
+    <code>python3 pySQL -db [databaseName] -u [username]</code>
